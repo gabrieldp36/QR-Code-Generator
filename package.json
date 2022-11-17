@@ -1,0 +1,18 @@
+{
+  "name": "generador-de-codigos-qrs",
+  "version": "1.0.0",
+  "description": "Generador de codigos qr a partir de un archivo .csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Hernán Domínguez Prado",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "qrcode": "^1.5.1",
+    "yargs": "^17.6.0"
+  }
+}
